@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+*{
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+}
+
+.Navbar{ 
+    display:flex;
+    gap: 50px;
+    justify-content: flex-end;
+    border-bottom: 1px solid black;
+    padding-right: 50px;
+    
+}
+
+a{
+    color:black
+}
+img{
+    object-fit: cover;
+}
+table{
+    border: 1px solid black;
+}
+table th{
+    border:1px solid black
+}
+table tr{ 
+    border:1px solid black;
+}
+table td{
+    border:1px solid black;
+}
