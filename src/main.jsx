@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { RouterProvider,createBrowserRouter } from 'react-router-dom'
 import HomeUser from './HomeUser';
-import Homeadmin from './Homeadmin';
+import Homeadmin from './HomeAdmin';
 import App from './App'
 import Owner from './Owner';
 
